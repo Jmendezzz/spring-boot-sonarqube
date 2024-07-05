@@ -1,1 +1,1 @@
-This is a basic project, in order to use SonarQube
+This is a basic project using Spring Boot, in order to use SonarQube
